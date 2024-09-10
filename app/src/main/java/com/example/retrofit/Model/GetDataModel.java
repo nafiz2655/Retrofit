@@ -10,6 +10,7 @@ public class GetDataModel {
     private String image;
     private String address;
 
+
     public GetDataModel() {
     }
 
